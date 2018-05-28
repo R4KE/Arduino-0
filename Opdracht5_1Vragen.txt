@@ -1,0 +1,2 @@
+1. Als je de bitsnelheid voor beide naar 119.000 verandert, stuurt de computer sneller informatie uit naar de Arduino.
+2. De bitsnelheid vertragen.
