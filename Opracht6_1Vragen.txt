@@ -1,0 +1,2 @@
+1a. De waarde voor donker is 0 en licht gaat tot 1023. 
+1b. Weerstand is 10Ω / 10Ω + 10Ω (0.5 volt)
