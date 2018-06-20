@@ -1,0 +1,4 @@
+Onze synthesizer gebruikt drie potentiometers, een voor modulation, een voor pitch en een voor square-LFO (dus een delay).
+
+Ga naar de link hieronder om een video te kijken waarin je kan zien hoe het er uit ziet (en klinkt!)
+Link : https://drive.google.com/file/d/1XNwL_lk0O7dNfLTSfU_JVaRqtYZomb3I/view?usp=sharing
